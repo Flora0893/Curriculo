@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compartible" content="IE=edge">
+        <title>valentina Moreira</title>
+    </head>
+    <body>
+
+        <article>
+            <h1>Valentina Moreira</h1>
+
+            <img src="Imagens/Foto do curriculo.webp" alt="Foto">
+
+            <p>Dra. Valentina Moreira
+                Rua da Graça, 123, São Paulo, SP<br>
+                (11) 91234-5678<br>
+                anaclarasilva@email.com<br>
+                LinkedIn: linkedin.com/in/valentinamoreira<br>
+                
+                OBJETIVO<br>
+                Médica Psiquiátrica comprometida em proporcionar cuidados de saúde mental de alta qualidade, com foco na abordagem humanizada e em tratamentos baseados em evidências.<br>
+                
+                FORMAÇÃO ACADÊMICA<br>
+                
+                Graduação em Medicina<br>
+                Universidade de São Paulo (USP) | Conclusão: 2015<br>
+                
+                Residência em Psiquiatria<br>
+                Hospital das Clínicas de São Paulo | Conclusão: 2018<br>
+                
+                EXPERIÊNCIA PROFISSIONAL<br>
+                
+                Psiquiatra<br>
+                Hospital São Pedro | São Paulo, SP | 2018 – Presente<br>
+                
+                Atendimento ambulatorial e hospitalar a pacientes com transtornos mentais, incluindo depressão, ansiedade e esquizofrenia.<br>
+                Realização de psicoterapias individuais e em grupo.<br>
+                Coordenação de programas de saúde mental comunitária.<br>
+                Estagiária em Psiquiatria<br>
+                Hospital Universitário | São Paulo, SP | 2014 – 2015<br>
+                
+                Apoio em avaliações diagnósticas e planos de tratamento sob supervisão.<br>
+                Participação em sessões de terapia ocupacional e grupos de apoio.<br>
+                HABILIDADES<br>
+                
+                Avaliação e Diagnóstico Clínico<br>
+                Psicoterapia Cognitivo-Comportamental e Psicanálise<br>
+                Prescrição e Monitoramento de Medicamentos<br>
+                Comunicação Empática e Eficaz<br>
+                Trabalho em Equipe Interdisciplinar<br>
+                ATIVIDADES ADICIONAIS<br>
+                
+                Membro da Associação Brasileira de Psiquiatria (ABP)<br>
+                Participação em congressos nacionais e internacionais sobre saúde mental.<br>
+                Voluntária em projetos de saúde mental em comunidades carentes.<br>
+                IDIOMAS<br>
+                
+                Português (nativo)<br>
+                Inglês (avançado).</p>
+
+            </article>
+        </body>
+        </html>
